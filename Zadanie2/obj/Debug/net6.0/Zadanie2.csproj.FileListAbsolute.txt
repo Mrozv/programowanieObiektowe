@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\bin\Debug\net6.0\Zadanie2.exe
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\bin\Debug\net6.0\Zadanie2.deps.json
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\bin\Debug\net6.0\Zadanie2.runtimeconfig.json
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\bin\Debug\net6.0\Zadanie2.dll
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\bin\Debug\net6.0\Zadanie2.pdb
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.dll
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\refint\Zadanie2.dll
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.pdb
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\Zadanie2.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Pulpit\studia\Programowanie Obiektowe\Nowy folder\Zadanie2\Zadanie2\obj\Debug\net6.0\ref\Zadanie2.dll
