@@ -49,7 +49,7 @@ public class Vector
         foreach (var vector in vectors)
         {
             if (vector.Dimension != dimension)
-                return null; // Można również rzucić wyjątek
+                return null;
         }
 
         Vector sum = new Vector(dimension);
